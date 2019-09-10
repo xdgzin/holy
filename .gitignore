@@ -1,6 +1,6 @@
 # Built application files
 Pornhub.apk
-Sdk.ap.
+Sdk.apk
 
 # Files for the ART/Dalvik VM
 *.dex
@@ -9,9 +9,9 @@ Sdk.ap.
 *.class
 
 # Generated files
-bin/
+bin/0
 gen/
-out/
+out/ss-iptv-pt 
 
 # Gradle files
 .gradle/

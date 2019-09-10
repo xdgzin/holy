@@ -1,6 +1,6 @@
 # Built application files
-*.apk
-*.ap_
+Pornhub.apk
+Sdk.ap.
 
 # Files for the ART/Dalvik VM
 *.dex
@@ -42,7 +42,7 @@ captures/
 .idea/libraries
 .idea/caches
 
-# Keystore files
+# Keystore files1233654
 # Uncomment the following line if you do not want to check your keystore files in.
 #*.jks
 
